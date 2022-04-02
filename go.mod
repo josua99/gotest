@@ -1,3 +1,3 @@
-module github.com/biblewiki/gotest
+module github.com/josua99/gotest
 
 go 1.17
